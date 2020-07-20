@@ -1,7 +1,7 @@
 ---
 title: Muhammad Muneeb Afzal
 role: PhD Student at New York University
-avatar_filename: muneeb_photo.png
+avatar_filename: avatar.png
 organizations:
   - name: New York University
 superuser: true
