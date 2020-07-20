@@ -19,6 +19,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/muneebafzal
+  - icon_pack: fab
+    link: https://www.linkedin.com/in/mmafzal/
+    icon: linkedin
 education:
   courses:
     - course: BSc in Electrical Engineering with minors in CS and Mathematics
