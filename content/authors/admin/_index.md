@@ -1,6 +1,6 @@
 ---
 title: Muhammad Muneeb Afzal
-role: PhD Student at New York University
+role: PhD Student
 avatar_filename: avatar.jpg
 organizations:
   - name: New York University
@@ -31,4 +31,4 @@ email: ""
 user_groups:
   - ""
 ---
-Currently, I am working in NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang.
+Currently, I am a PhD student working at NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang.
