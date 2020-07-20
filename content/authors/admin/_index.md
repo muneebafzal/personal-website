@@ -9,9 +9,9 @@ authors:
   - admin
 bio: My research interests include 3D Deep Learning and Computer Vision
 interests:
+  - 3D Computer Vision
   - Deep Learning
-  - Computer Vision
-  - Artificial Intelligence
+  - Meta Learning
 social:
   - icon: github
     icon_pack: fab
