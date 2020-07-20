@@ -28,4 +28,4 @@ email: ""
 user_groups:
   - ""
 ---
-Currently, I am a PhD student working at NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang.
+I am a PhD student working at NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang.
