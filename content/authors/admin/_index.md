@@ -13,9 +13,6 @@ interests:
   - Computer Vision
   - Artificial Intelligence
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
   - icon: github
     icon_pack: fab
     link: https://github.com/muneebafzal
