@@ -21,7 +21,7 @@ social:
     icon: linkedin
 education:
   courses:
-    - course: BSc in Electrical Engineering with minors in CS and Mathematics
+    - course: B.S in Electrical Engineering with minors in CS and Mathematics
       institution: New York University Abu Dhabi
       year: 2019
 email: ""
