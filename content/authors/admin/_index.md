@@ -28,4 +28,4 @@ email: ""
 user_groups:
   - ""
 ---
-I am a PhD student working at NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang. I did my undergradute in 2019 from New York University Abu Dhabi where I completed B.S in Electrical Engineering with concentrations in Computer Science and Mathematics. My research interests broadly include 3D Computer Vision, Deep Learning and Meta Learning.
+I am a PhD student working at NYU Multimedia and Visual Computing Lab (NYU MMVC) with Professor Yi Fang. I did my undergradute in 2019 from New York University Abu Dhabi where I completed my bachelor's degree in Electrical Engineering with concentrations in Computer Science and Mathematics. My research interests broadly include 3D Computer Vision, Deep Learning and Meta Learning.
